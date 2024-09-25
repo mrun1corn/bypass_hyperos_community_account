@@ -1,2 +1,4 @@
-# php-adb
-Simple wrapper of Android Debug Bridge for PHP.
+thanks to Jaida Wu for sharing this wonderfull way of unlocking bootloader without community account
+
+tested only on windows,
+just download and run the script with
